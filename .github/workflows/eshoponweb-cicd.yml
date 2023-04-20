@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 7e62fa00-3d13-48da-a97d-d54c4c384807
-  WEBAPP-NAME: sandhyarani1181
+  WEBAPP-NAME: sandhyagithub
 
 
 jobs:
